@@ -33,7 +33,7 @@ The OpenLute repository contains the project's source designs and supporting doc
 * Development history
 * Community contributions and modifications
 
-The goal is for the repository to be the **official home for OpenLute designs and their development history.**.
+The goal is for the repository to be the **official home for OpenLute designs and their development history.**
 
 ## Build It. Modify It. Improve It.
 
