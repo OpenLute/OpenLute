@@ -33,7 +33,8 @@ Allow the epoxy to fully cure according to the manufacturer's instructions befor
 
 ### Parts
 
-* Soundboard half × 2
+* Soundboard top half × 1
+* Soundboard bottom half × 1
 * SndBrd-Connector × 1
 * SndBrd-Top Brace1 × 1
 * SndBrd-Top Brace2 × 1
