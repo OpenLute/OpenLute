@@ -53,7 +53,7 @@ OpenLute is an actively developing project.
 |---|---|
 | **Current design** | OL-R1 |
 | **Configuration** | 7-course Renaissance lute |
-| **Status** | Development / testing |
+| **Status** | Experimental |
 
 The designs and documentation will continue to evolve as they are built and tested.
 
