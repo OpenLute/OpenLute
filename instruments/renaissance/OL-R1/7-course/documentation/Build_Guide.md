@@ -12,11 +12,12 @@ The design is experimental and may change as additional builds are completed and
 
 ### Parts
 
-* Bowl half × 2
+* Bowl top half × 1
+* Bowl bottom half × 1
 
 ### Assembly
 
-1. Print both bowl halves.
+1. Print the bowl top half and bottom half.
 2. Take care when removing supports. The dovetail features are somewhat fragile and may require additional strengthening in future revisions.
 3. Test-fit the two halves and make sure the dovetails are properly aligned.
 4. Apply epoxy to the mating edges of the bowl halves.
@@ -44,7 +45,7 @@ Allow the epoxy to fully cure according to the manufacturer's instructions befor
 
 ### Assembly
 
-1. Print both soundboard halves.
+1. Print the soundboard top half and bottom half.
 2. Epoxy the two soundboard halves together.
 3. Print the soundboard support pieces listed above.
 4. Glue the support pieces to the underside of the soundboard according to the image below.
@@ -81,13 +82,29 @@ Allow the epoxy to fully cure according to the manufacturer's instructions befor
 ### Assembly
 
 1. Once the neck is attached to the bowl, position the fingerboard on the neck.
-2. Check the alignment of the fingerboard with the neck and centerline of the instrument.
+2. Check the alignment of the fingerboard with the centerline of the neck.
 3. Glue the fingerboard to the neck.
 4. Allow the adhesive to fully cure before continuing.
 
 ---
 
-## 5. Pegbox Reinforcement
+## 5. Nut
+
+### Parts
+
+* Nut
+* Fingerboard / neck assembly
+
+### Assembly
+
+1. Position the nut at the end of the fingerboard.
+2. Check that the nut is properly aligned with the centerline of the fingerboard and neck.
+3. Glue the nut in place.
+4. Allow the adhesive to fully cure before installing and tensioning the strings.
+
+---
+
+## 6. Pegbox Reinforcement
 
 The pegbox is reinforced using a 1/4-inch diameter rod.
 
@@ -121,7 +138,7 @@ The two 1 3/8-inch sections are installed when the pegbox is joined to the neck.
 
 ---
 
-## 6. Soundboard to Bowl Assembly
+## 7. Soundboard to Bowl Assembly
 
 Once the soundboard assembly is complete:
 
@@ -142,6 +159,26 @@ Once the soundboard assembly is complete:
 7. Secure the assembly in position while the adhesive cures.
 
 8. Allow the adhesive to fully cure before proceeding.
+
+---
+
+## 8. Optional Strap Handle
+
+A strap handle can optionally be added to the end of the bowl.
+
+The strap handle is **not required** for the basic construction of the OL-R1 and can be added according to the builder's preference.
+
+### Parts
+
+* Strap handle
+* Appropriate mounting hardware and/or adhesive
+
+### Installation
+
+1. Position the strap handle at the end of the bowl.
+2. Verify the desired location and alignment before attaching it.
+3. Secure the strap handle using the intended mounting method.
+4. Allow any adhesive to fully cure before attaching a strap or applying load.
 
 ---
 
