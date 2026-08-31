@@ -33,7 +33,7 @@ The OpenLute repository contains the project's source designs and supporting doc
 * Development history
 * Community contributions and modifications
 
-The goal is for the repository to be the **authoritative home for OpenLute designs and their development history**.
+The goal is for the repository to be the **official home for OpenLute designs and their development history.**
 
 ## Build It. Modify It. Improve It.
 
@@ -49,9 +49,11 @@ If you develop something useful, consider sharing it with the community so other
 
 OpenLute is an actively developing project.
 
-**Current design:** OL-R1
-**Current configuration:** 7-course Renaissance lute
-**Status:** Development / testing
+| | |
+|---|---|
+| **Current design** | OL-R1 |
+| **Configuration** | 7-course Renaissance lute |
+| **Status** | Experimental |
 
 The designs and documentation will continue to evolve as they are built and tested.
 
@@ -73,25 +75,31 @@ Useful contributions can include:
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for information about participating in the project.
 
+## License
+
+OpenLute hardware designs are released under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)**.
+
+In plain English, this means you are free to use, study, build, modify, and share the designs under the terms of the license. The license also permits commercial use.
+
+If you distribute modified OpenLute designs, the license includes requirements intended to keep the corresponding design information available to others.
+
+The complete license and its terms are provided in [LICENSE](LICENSE). The license is the authoritative source for your rights and obligations.
+
+The **OpenLute name and branding are not granted as part of the hardware license**.
+
 ## Safety
 
-OpenLute designs are physical objects that contain components subjected to significant mechanical loads, including string tension.
+OpenLute designs are physical objects that may contain components subjected to significant mechanical loads, including string tension.
 
-Builders are responsible for determining whether their materials, manufacturing methods, printed components, hardware, assembly techniques, and modifications are appropriate for their particular build.
+The CERN-OHL-S-2.0 license provides the designs without warranties and limits liability to the extent permitted by applicable law. **Build and use OpenLute designs at your own risk.**
 
-**Read [SAFETY.md](SAFETY.md) before building or stringing an OpenLute instrument.**
+Please use appropriate safety practices when printing, assembling, stringing, tuning, modifying, and using an OpenLute instrument.
+
+See [SAFETY.md](SAFETY.md) for basic safety guidance.
 
 ## Support OpenLute
 
-The designs and project documentation are intended to remain freely available.
-
-If you find OpenLute useful and would like to help the project continue, voluntary financial support is appreciated.
-
-Support helps fund continued design, prototyping, testing, documentation, hosting, and other project expenses.
-
-**[Support OpenLute](#)**
-
-No contribution is required to use, build, study, or participate in the project.
+OpenLute is supported through voluntary contributions. Information about supporting the project will be added as the project develops.
 
 ## Get Started
 
