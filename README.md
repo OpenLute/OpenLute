@@ -33,7 +33,7 @@ The OpenLute repository contains the project's source designs and supporting doc
 * Development history
 * Community contributions and modifications
 
-The goal is for the repository to be the **authoritative home for OpenLute designs and their development history**.
+The goal is for the repository to be the **official home for OpenLute designs and their development history.**.
 
 ## Build It. Modify It. Improve It.
 
@@ -49,9 +49,11 @@ If you develop something useful, consider sharing it with the community so other
 
 OpenLute is an actively developing project.
 
-**Current design:** OL-R1
-**Current configuration:** 7-course Renaissance lute
-**Status:** Development / testing
+| | |
+|---|---|
+| **Current design** | OL-R1 |
+| **Configuration** | 7-course Renaissance lute |
+| **Status** | Development / testing |
 
 The designs and documentation will continue to evolve as they are built and tested.
 
@@ -97,15 +99,7 @@ See [SAFETY.md](SAFETY.md) for basic safety guidance.
 
 ## Support OpenLute
 
-The designs and project documentation are intended to remain freely available.
-
-If you find OpenLute useful and would like to help the project continue, voluntary financial support is appreciated.
-
-Support helps fund continued design, prototyping, testing, documentation, hosting, and other project expenses.
-
-**[Support OpenLute](#)**
-
-No contribution is required to use, build, study, or participate in the project.
+OpenLute is supported through voluntary contributions. Information about supporting the project will be added as the project develops.
 
 ## Get Started
 
