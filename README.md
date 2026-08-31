@@ -73,13 +73,27 @@ Useful contributions can include:
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for information about participating in the project.
 
+## License
+
+OpenLute hardware designs are released under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)**.
+
+In plain English, this means you are free to use, study, build, modify, and share the designs under the terms of the license. The license also permits commercial use.
+
+If you distribute modified OpenLute designs, the license includes requirements intended to keep the corresponding design information available to others.
+
+The complete license and its terms are provided in [LICENSE](LICENSE). The license is the authoritative source for your rights and obligations.
+
+The **OpenLute name and branding are not granted as part of the hardware license**.
+
 ## Safety
 
-OpenLute designs are physical objects that contain components subjected to significant mechanical loads, including string tension.
+OpenLute designs are physical objects that may contain components subjected to significant mechanical loads, including string tension.
 
-Builders are responsible for determining whether their materials, manufacturing methods, printed components, hardware, assembly techniques, and modifications are appropriate for their particular build.
+The CERN-OHL-S-2.0 license provides the designs without warranties and limits liability to the extent permitted by applicable law. **Build and use OpenLute designs at your own risk.**
 
-**Read [SAFETY.md](SAFETY.md) before building or stringing an OpenLute instrument.**
+Please use appropriate safety practices when printing, assembling, stringing, tuning, modifying, and using an OpenLute instrument.
+
+See [SAFETY.md](SAFETY.md) for basic safety guidance.
 
 ## Support OpenLute
 
