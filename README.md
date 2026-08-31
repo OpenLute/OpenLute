@@ -1,0 +1,106 @@
+# OpenLute
+
+**Open-source, 3D-printable lute designs.**
+
+OpenLute is an open-source hardware project focused on making playable, accessible lute designs that can be fabricated using modern digital manufacturing tools such as 3D printing.
+
+The goal is to make it easier for builders, musicians, makers, and designers to **build, study, modify, improve, and share** lute designs.
+
+## The Project
+
+OpenLute is intended to be more than a single instrument. It is a framework for developing and sharing open lute designs across different historical styles, course counts, and approaches to construction.
+
+The project begins with a Renaissance lute design:
+
+### OL-R1
+
+**OL-R1** is the first OpenLute Renaissance design.
+
+The initial development target is a **7-course Renaissance lute**.
+
+As the project develops, additional configurations, designs, and approaches may be added—including different course counts and other lute styles.
+
+## What You'll Find Here
+
+The OpenLute repository contains the project's source designs and supporting documentation, including:
+
+* CAD source files
+* Printable files
+* Build and assembly documentation
+* Hardware and materials information
+* Recommended print settings
+* Design documentation
+* Development history
+* Community contributions and modifications
+
+The goal is for the repository to be the **authoritative home for OpenLute designs and their development history**.
+
+## Build It. Modify It. Improve It.
+
+OpenLute is intended to be a community-driven project.
+
+You are encouraged to build the instruments, experiment with them, identify problems, propose improvements, and develop your own variations.
+
+Not every experiment will become part of an official OpenLute release. The project will maintain a distinction between **official OpenLute designs** and community-developed modifications or derivatives.
+
+If you develop something useful, consider sharing it with the community so others can learn from it and build upon it.
+
+## Current Status
+
+OpenLute is an actively developing project.
+
+**Current design:** OL-R1
+**Current configuration:** 7-course Renaissance lute
+**Status:** Development / testing
+
+The designs and documentation will continue to evolve as they are built and tested.
+
+## Contributing
+
+You don't need to be the original designer to contribute.
+
+Useful contributions can include:
+
+* Building and testing an instrument
+* Reporting problems
+* Suggesting design improvements
+* Contributing CAD work
+* Improving documentation
+* Testing materials and print settings
+* Developing accessories
+* Sharing build experiences
+* Developing alternative designs
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for information about participating in the project.
+
+## Safety
+
+OpenLute designs are physical objects that contain components subjected to significant mechanical loads, including string tension.
+
+Builders are responsible for determining whether their materials, manufacturing methods, printed components, hardware, assembly techniques, and modifications are appropriate for their particular build.
+
+**Read [SAFETY.md](SAFETY.md) before building or stringing an OpenLute instrument.**
+
+## Support OpenLute
+
+The designs and project documentation are intended to remain freely available.
+
+If you find OpenLute useful and would like to help the project continue, voluntary financial support is appreciated.
+
+Support helps fund continued design, prototyping, testing, documentation, hosting, and other project expenses.
+
+**[Support OpenLute](#)**
+
+No contribution is required to use, build, study, or participate in the project.
+
+## Get Started
+
+The current OpenLute design can be found here:
+
+**[OL-R1 — 7-Course Renaissance Lute](instruments/renaissance/OL-R1/7-course/)**
+
+Start there for the current design files and build documentation.
+
+---
+
+**OpenLute** is an evolving open-source project. Build one, learn from it, improve it, and share what you discover.
