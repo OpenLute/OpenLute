@@ -20,6 +20,16 @@ The initial development target is a **7-course Renaissance lute**.
 
 As the project develops, additional configurations, designs, and approaches may be added—including different course counts and other lute styles.
 
+## Naming
+
+OpenLute designs are named **OL-** followed by a letter for the lute style and a number for the design:
+
+* **Style letter** — **R** for Renaissance. Other styles will get their own letters as they are added.
+* **Design number** — a distinct design within that style, such as a new body shape, a different construction, or a model based on a different historical instrument. A design that isn't derived from OL-R1 would become OL-R2.
+* **Configuration** — variations of one design, such as course count or overall size, are kept in folders inside the design rather than given new names, for example `OL-R1/7-course/`. A scaled-down, shorter-string version of OL-R1 is a configuration of OL-R1, not a new design.
+
+A new design number is used when parts are no longer interchangeable with the original design or the construction changes substantially. Alternative print layouts, such as parts split for smaller printers, are part of a configuration rather than a new design.
+
 ## What You'll Find Here
 
 The OpenLute repository contains the project's source designs and supporting documentation, including:
